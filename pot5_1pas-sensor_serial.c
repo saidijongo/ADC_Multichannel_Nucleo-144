@@ -21,7 +21,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-#define ADC_BUFFER_LENGTH 6
+//#define ADC_BUFFER_LENGTH 6
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
